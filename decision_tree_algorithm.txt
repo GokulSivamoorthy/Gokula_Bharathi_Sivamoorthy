@@ -1,0 +1,26 @@
+Supervised Algorithm:
+
+    Another Type : Decision Tree
+
+                   DecisionTreeRegression
+                   DecisionTreeClassification
+
+Linear (Linear regression or logistic regression):
+
+Year   Sq_Feet  No_of_Rooms    Price  purchased_history
+
+Non-Linear(Classification)
+
+Wind     Tempearture    Weather     Humdity     Rain_Probability
+-----------------------------------------------------------------
+
+Final Conclusion:
+
+1. Decision Tree is best suited for Non-Linear category of input data
+2. It can also used to find with linear also but preferred mostly for non-linear
+3. IF there any null values inbetween, it wont care much and it will handle.
+4. As the name indicates, it is the process of predicting the output by tree structure
+5. Parent Node, Leaf Node, Branch Node
+6. Decision Tree will itself decide which column  among our output is best fit for parent node and
+corresponding.
+6.1 Proces of finding the node by itself is called "criterion"

@@ -1,0 +1,20 @@
+Parameters which we needed to enhance the feature of our model is called as
+"HyperParameters"
+
+Each model has its own parameter
+
+Parameters:
+
+**Hyperparameter tuning is the process of selecting the best values for the hyperparameters of a machine learning model. In the case of decision trees, the hyperparameters to be tuned include:**
+
+**Maximum Depth:** The maximum number of levels that a decision tree can have.
+
+**Minimum Samples Split:** The minimum number of samples required to split an internal node.
+
+**Minimum Samples Leaf:** The minimum number of samples required to be present in a leaf node.
+
+**Maximum Features:** The number of features to be considered when looking for the best split.
+
+**Maximum Leaf Nodes:** The maximum number of leaf nodes that a decision tree can have.
+
+**Criteria** :** Gini impurity, entropy (default is gini impurity)
