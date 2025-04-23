@@ -1,0 +1,23 @@
+Name: Autism prediction and analysis
+
+Aim: predicting the possiblity of causing autism using the dataset downloaded from kaggle
+
+tools and libraries:
+pandas,numpy, matplotlib, seaborn and scikit-learn
+
+Process:
+ Step 1: Data Loading
+ Step 2: Initial Data Exploration
+ Step 3: Data Preprocessing
+ Step 4: Exploratory Data Analysis (EDA)
+    Class Distribution (Pie Chart)
+    Identify Numeric and Categorical Columns
+    Count Plots for Numerical Features
+    Count Plots for Categorical Features
+    Country-wise Comparison
+    Distribution and Boxplots for Decimal Features
+ Step 5: Correlation Heatmap
+ Step 6: Data Modeling (Supervised Learning)
+ Step 7: Unsupervised Learning – KMeans Clustering by Country
+
+
